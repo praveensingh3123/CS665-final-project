@@ -13,7 +13,7 @@ It allows customers to browse products, add them to their carts, and place order
 their products and manage their inventory.
 
 # GitHub Repository Link:
-https://github.com/praveensingh3123/CS665-Assignment-2
+https://github.com/praveensingh3123/CS665-final-project
 
 # Features
 * Customer Management: Customers can register, browse products, add items to their cart, and place orders.
